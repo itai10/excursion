@@ -1,0 +1,16 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+a{
+    color: turquoise;
+}
+h5{
+    color: gray;
+}
+footer{
+    color: gray;
+    text-align: right;
+}
